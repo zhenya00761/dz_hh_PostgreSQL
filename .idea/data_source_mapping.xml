@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourcePerFileMappings">
+    <file url="file://$PROJECT_DIR$/tasks/task1.sql" value="5cf66f56-4ddd-4451-bb86-0a58906f3b42" />
+    <file url="file://$PROJECT_DIR$/tasks/task2.sql" value="5cf66f56-4ddd-4451-bb86-0a58906f3b42" />
+    <file url="file://$PROJECT_DIR$/tasks/task3.sql" value="5cf66f56-4ddd-4451-bb86-0a58906f3b42" />
+    <file url="file://$PROJECT_DIR$/tasks/task4.sql" value="5cf66f56-4ddd-4451-bb86-0a58906f3b42" />
+    <file url="file://$PROJECT_DIR$/tasks/task5.sql" value="5cf66f56-4ddd-4451-bb86-0a58906f3b42" />
+    <file url="file://$PROJECT_DIR$/tasks/task6.sql" value="5cf66f56-4ddd-4451-bb86-0a58906f3b42" />
+  </component>
+</project>
